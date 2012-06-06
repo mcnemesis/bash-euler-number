@@ -23,3 +23,4 @@ For example, you can do this to get an aproximation of Euler's Number to
 	2.71810897
 	2.71810897
 
+NOTE : It displays the current aproximation at each iteration, so the final value gets echoed twice
